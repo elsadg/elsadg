@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about remote sensing
 - 😄 Pronouns: (she /her)
 
-## Github Stats
-<p>&nbsp;<a href="https://github.com/elsadg?tab=repositories"><img align="center" src="![Elsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsadg&show_icons=true&theme=default)" /></a></p>
+![Elsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsadg&show_icons=true&theme=default)" /></a></p>
