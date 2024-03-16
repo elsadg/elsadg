@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **remote sensing for blue carbon**
 - 💬 Ask me about remote sensing
 - 😄 Pronouns: (she /her)
+
+## Github Stats
+<p>&nbsp;<a href="https://github.com/elsadg?tab=repositories"><img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsadg&show_icons=true&theme=transparent)" /></a></p>
