@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on using remote sensing for conservation
+- 🌱 I’m currently learning **remote sensing for blue carbon**
+- 💬 Ask me about remote sensing
+- 😄 Pronouns: (she /her)
